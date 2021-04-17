@@ -15,6 +15,7 @@ func Test02() {
 	fmt.Println("444")
 	fmt.Println("555")
 }
-func test03() {
-	fmt.Println("777")
+
+func test04() {
+	fmt.Println("666")
 }
