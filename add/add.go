@@ -10,6 +10,6 @@ func Test_01() {
 	fmt.Println("test_01")
 }
 
-func Test() {
+func Test01() {
 	fmt.Println("222")
 }
