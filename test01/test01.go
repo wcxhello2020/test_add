@@ -18,6 +18,10 @@ func fun07() {
 	fmt.Println("hello fun07")
 }
 
+func fun09() {
+	fmt.Println("hello fun09")
+}
+
 func fun11() {
 	fmt.Println("hello fun11")
 }
