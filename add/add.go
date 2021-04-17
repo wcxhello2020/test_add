@@ -13,3 +13,6 @@ func Test_01() {
 func Test01() {
 	fmt.Println("222")
 }
+func test03() {
+	fmt.Println("777")
+}
