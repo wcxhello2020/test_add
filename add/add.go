@@ -9,3 +9,7 @@ func Add(a, b int) int {
 func Test_01() {
 	fmt.Println("test_01")
 }
+
+func Test02() {
+	fmt.Println("333")
+}
