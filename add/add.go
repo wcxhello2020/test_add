@@ -12,4 +12,5 @@ func Test_01() {
 
 func Test02() {
 	fmt.Println("333")
+	fmt.Println("444")
 }
