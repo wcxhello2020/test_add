@@ -9,3 +9,7 @@ func fun01() {
 func fun03() {
 	fmt.Println("hello fun03")
 }
+
+func fun07() {
+	fmt.Println("hello fun07")
+}
