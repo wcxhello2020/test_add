@@ -17,3 +17,7 @@ func fun05() {
 func fun07() {
 	fmt.Println("hello fun07")
 }
+
+func fun09() {
+	fmt.Println("hello fun09")
+}
